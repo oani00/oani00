@@ -1,4 +1,4 @@
-Hi! I'm Oani (you can spell it like "1e")
+Hi! I'm Oani (you can pronounce it like "1e")
 
 - 🔭 I’m currently working on things to increment my github.
 - 🌱 I’m currently learning a lot of things, in fact my "schedulle" is web in general (and computer neworks), JS, some JS frameworks, JAVA and C#. Maybe some basic Python in between to solve some URI problems.
