@@ -1,14 +1,7 @@
-### Hi there 👋
+Hi! I'm Oani (you can spell it like "1e")
 
-
-**oani00/oani00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on um monte de coisas =D
-- 🌱 I’m currently learning Vish, de tudo
-- 👯 I’m looking to collaborate on roles
-- 🤔 I’m looking for help with nao sei
-- 💬 Ask me about coisas de video game
+- 🔭 I’m currently working on things to increment my github.
+- 🌱 I’m currently learning a lot of things, in fact my "schedulle" is web in general (and computer neworks), JS, some JS frameworks, JAVA and C#. Maybe some basic Python in between to solve some URI problems.
+- 💬 Ask me anything about games, I love videogames.
 - 📫 How to reach me: https://linktr.ee/oanic
-- ⚡ Fun fact: Existe uma linguagem B e uma linguagem D
+- ⚡ Fun fact: Did you know that the card game Magic the Gathering is turing complete?
