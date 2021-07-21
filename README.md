@@ -5,3 +5,4 @@ Hi! I'm Oani (you can pronounce it like "1e")
 - 💬 Ask me anything about games, I love videogames.
 - 📫 How to reach me: https://linktr.ee/oanic <- Linkedin included
 - ⚡ Fun fact: Did you know that the card game Magic the Gathering is turing complete?
+- ⚡ Fun fact2: Check out my Instagram where I make funny and sometimes informative posts about tech: @oanisc
