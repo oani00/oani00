@@ -1,8 +1,9 @@
 Hi! I'm Oani (you can pronounce it like "1e")
 
 Studying and coding, now and always. Currently finishing another graduation, now at FATEC - SOROCABA (Brazil). Physicist and Psychologist.
+You can check my portfolio and the web-projects repositories for some projects I've worked on.
 
-Now check out this table where I keep track of the things I've read or done, so you can learn something too. Enjoy! (A thx to [tabletomarkdown.com](https://tabletomarkdown.com/convert-spreadsheet-to-markdown) )
+Now check out this table where I keep track of the things I've read or done, so you can learn something too. Enjoy! (Made via [tabletomarkdown.com](https://tabletomarkdown.com/convert-spreadsheet-to-markdown) )
 
 
 
