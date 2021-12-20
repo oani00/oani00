@@ -3,9 +3,9 @@ Hi! I'm Oani (you can pronounce it like "1e")
 Studying and coding, now and always. Currently finishing another graduation, now at FATEC - SOROCABA (Brazil). Physicist and Psychologist.
 You can check my portfolio and the web-projects repositories for some projects I've worked on.
 
-Currently an intern at Lab1. Working with C# development.
+Currently an intern at Lab1. Working with C# development for SAP technologies.
 
-![](lab.png)
+<img src="lab.png" alt="Girl in a jacket" height="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png" alt="Girl in a jacket" height="154">
 
 
 Now check out this table where I keep track of the things I've read or done, so you can learn something too. Enjoy! (Made via [tabletomarkdown.com](https://tabletomarkdown.com/convert-spreadsheet-to-markdown) )
