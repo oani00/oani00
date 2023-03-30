@@ -6,4 +6,8 @@ Physicist (UNESP)(2015) and Master in Psychology (UFSCar)(2019).
 
 Currently working with C# development for SAP technologies and fullstack development using Blazor.
 
+Contact me at: 
+https://www.linkedin.com/in/oani-silva-costa/
+or oani.cost@gmail.com
+
 <img src="labb.png" alt="Girl in a jacket" height="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png" alt="Girl in a jacket" height="149">
