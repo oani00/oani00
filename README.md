@@ -1,13 +1,14 @@
 Hi! I'm Oani (you can pronounce it like "1e")
 
-Studying and coding, now and always. 
-Analyst and Developmer of systems (FATEC - Sorocaba)(2022). 
-Physicist (UNESP)(2015) and Master in Psychology (UFSCar)(2019).
+Studying and coding, now and always.
+* Analyst and Developer of Systems (FATEC - Sorocaba)(2022). 
+* Physicist (UNESP)(2015)
+* Master in Psychology (UFSCar)(2019).
 
-Currently working with C# development for SAP technologies and fullstack development using Blazor.
+Currently working with C# Back-end development. Previous experience with SAP, Sql Server and Fullstack Web development with Blazor and ASP Web Forms.
 
 Contact me at: 
 https://www.linkedin.com/in/oani-silva-costa/
 or oani.cost@gmail.com
 
-<img src="labb.png" alt="Girl in a jacket" height="150"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/1200px-SAP_2011_logo.svg.png" alt="Girl in a jacket" height="149">
+<img src="https://mineira.sbc.org.br/wp-content/uploads/2022/05/dti-azul-assinatura-e1652110024585.png" height="149">
